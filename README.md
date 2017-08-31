@@ -1,4 +1,4 @@
-note for <computer organization and design the hardware software interface> 5th edition
+note for  < computer organization and design the hardware software interface > 5th edition
 
 # catalog
 
